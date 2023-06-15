@@ -1,0 +1,177 @@
+.rectangle{
+    position: relative;
+    align-items: center;
+    width: 250px;
+    height: 50px;
+    margin-top: 140px;
+    background: #CFD080;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.control{
+position: relative;
+    text-align: center;
+width: 188px;
+height: 82px;
+
+font-family: 'Kaisei HarunoUmi';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 52px;
+
+color: #000000;
+
+}
+
+.up{
+text-align: center;
+font-family: 'Kaisei HarunoUmi';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+right: 200px;
+    width: 730px;
+    height: 730px;
+    top: 0px;
+color: #000000;
+
+}
+
+.recUp{
+    width: 60px;
+height: 60px;
+border-radius: 50px;
+    align-items: center;
+background: #D83636;
+border-radius: 10px;
+justify-content: center;
+}
+
+.right{
+    width: 47px;
+height: 58px;
+
+font-family: 'Kaisei HarunoUmi';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 29px;
+
+color: #000000;
+
+}
+.recright{
+    top:9px;
+    left:-133px;
+    width: 60px;
+height: 60px;
+border-radius: 10px;
+
+background: #DEE128;
+border-radius: 10px;
+}
+
+.left{
+    width: 34px;
+    height: 29px;
+    
+    font-family: 'Kaisei HarunoUmi';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+
+    
+    
+    color: #000000;
+}
+
+.recleft{
+    width: 60px;
+    height: 60px;
+    
+    background: #CBD836;
+    border-radius: 10px;
+}
+
+.down{
+    width: 55px;
+    height: 58px;
+    
+    font-family: 'Kaisei HarunoUmi';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+
+.recdown{
+    width: 60px;
+    height: 60px;
+    Top: 84px;
+    Left: -205px;
+    background: #62D050;
+    border-radius: 10px;
+}
+
+.b{
+    width: 14px;
+    height: 29px;
+    
+    font-family: 'Kaisei HarunoUmi';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    
+    
+    color: #000000;
+}
+
+.a{
+    width: 16px;
+    height: 58px;
+    
+    font-family: 'Kaisei HarunoUmi';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    
+    color: #000000;
+}
+
+.recB{
+    width: 60px;
+    height: 60px;
+    
+    background: rgba(112, 26, 26, 0.79);
+    border-radius: 10px;
+}
+
+.recA{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    
+    background: rgba(47, 53, 112, 0.89);
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
